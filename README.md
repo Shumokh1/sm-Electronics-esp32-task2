@@ -1,6 +1,5 @@
 # sm-Electronics-esp32-task2
 
-# Servo Sweep Example for ESP32
 
 ## Description
 
